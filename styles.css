@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+	
+}
+
+button{
+	background-color:pink;
+	color:white;
+	border-radius:10px;
+}
